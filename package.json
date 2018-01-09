@@ -1,0 +1,29 @@
+{
+  "name": "cat-races",
+  "version": "1.0.0",
+  "description": "Cat races",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No cats were harmed making this package'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creadi/cat-races.git"
+  },
+  "keywords": [
+    "cat",
+    "races",
+    "cats",
+    "catz",
+    "katze",
+    "kitties",
+    "kitty",
+    "hello-kitty"
+  ],
+  "author": "creadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creadi/cat-races/issues"
+  },
+  "homepage": "https://github.com/creadi/cat-races#readme"
+}
